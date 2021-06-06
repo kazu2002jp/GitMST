@@ -1,2 +1,2 @@
-# KazGit
+# GitMST
 2019.10.12 DELL 270S Make
